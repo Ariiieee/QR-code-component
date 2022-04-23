@@ -29,7 +29,7 @@ body {
 
 .qr-image {
   width: 100%;
-  border-radius: 15px;
+  border-radius: 11px;
   margin-bottom: 28px;
 }
 
@@ -38,14 +38,16 @@ body {
   text-align: center;
 }
 
-div h2 {
-  font-size: 22px;
-  margin-bottom: 28px;
-  color: #201f1f;
+div h1 {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: hsl(218, 44%, 22%);
 }
 
 div p {
-  margin-bottom: 32px;
+  margin-bottom: 24px;
   font-size: 15px;
-  color: #555;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
 }
